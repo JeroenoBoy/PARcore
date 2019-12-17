@@ -134,7 +134,7 @@ frames:
 &aNo presents<nf>
 &cFor you!
 ;
-name: SantaSaysSo,
+name: &eSantaSaysSo,
 item: 160,
 desc: &7Santa says ur bad!,
 price: 25000,
@@ -143,7 +143,15 @@ frames:
 &cUr bad!<nf>
 &aSanta said so!
 ;
-name: 
+name: &eNoStealing!,
+item: chest with hidden enchantments,
+desc: &7Dont steal my presents!,
+price: 15000,
+frameDelay: 60,
+frames:
+&aDont steal<nf>
+&cMy presents!
+;
 name: name,
 item: item,
 desc: desc,
