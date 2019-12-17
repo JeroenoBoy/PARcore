@@ -4,6 +4,60 @@ desc: The suffix for nothing,
 price: 0,
 suffix: &r,
 ;
+name: &eSanta,
+item: 421,
+desc: &7Let em show ur love for santa!,
+price: 1000,
+suffix: &f[&5Santa&f],
+;
+name: &eE-boy,
+item: 421,
+desc: &7Show them ur an E-boy!,
+price: 500,
+suffix: &f[&bE-boy&f],
+;
+name: &eE-girl,
+item: 421,
+desc: &7Show them ur an E-girl!,
+price: 500,
+suffix: &f[&dE-girl&f],
+;
+name: &eParkourGod,
+item: 421,
+desc: &7 We know you are one!,
+price: 2500,
+suffix: &f[&6ParkourGod&f],
+;
+name: &eSnowman,
+item: 421,
+desc: &7Show ur christmas spirit!,
+price: 1500,
+suffix: &f[Snowman]
+;
+name: &eMerry Christmas,
+item: 421,
+desc: &7Merry Christmas!
+price: 1000
+suffix: &f[&aMerry&cChristmas&f]
+;
+name: &eBoomer,
+item: 421,
+desc: &7Ok boomer,
+price: 5000,
+suffix: &f[Boomer],
+;
+name: &ePro,
+item: 421,
+desc: &7Tell them you are a pro!,
+price: 2500
+suffix: &f[&bPro&f],
+;
+name: &eCool,
+item: 421,
+desc: &7Ur a cool guy,
+price: 1000,
+suffix: &f[&6Cool&f],
+;
 name: name,
 item: item,
 desc: desc,
