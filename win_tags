@@ -115,7 +115,7 @@ frames:
 &e<o/
 ;
 name: &c&oOk Boomer,
-item: observer with hidden enchantments,
+item: observer,
 desc: &7Win and dont give,
 price: 20000,
 frameDelay: 5,
@@ -157,7 +157,7 @@ frames:
 &aSanta said so!
 ;
 name: &eNoStealing!,
-item: chest with hidden enchantments,
+item: chest,
 desc: &7Dont steal my presents!,
 price: 10000,
 frameDelay: 60,
