@@ -122,7 +122,7 @@ desc: Wish your opponent a merry christmas!
 price: 10000
 frameDelay: 120
 frames:
-&aMerry
+&aMerry<nf>
 &cChristmas!
 ; 
 name: name,
