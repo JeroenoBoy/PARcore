@@ -3,70 +3,63 @@ item: paper,
 desc: &7The default win tag,
 price: 0,
 frameDelay: 120,
-frames: {
+frames:
 &b[wonPlayer] &fwon
-}
 ;
 name: Sporty,
 item: map,
 desc: &7A sporty tag,
 price: 1500,
 frameDelay: 230,
-frames: {
+frames:
 &6Good Game Well Player!
-}
 ;
 name: I won?,
 item: pufferfish,
 desc: &7OMG YOU WON,
 price: 2500,
 frameDelay: 120,
-frames: {
+frames:
 &6&lOMG &eI finally won! &6&lOMG
-}
 ;
 name: Rekt,
 item: potato,
 desc: &7That feeling when you destroy someone,
 price: 2500,
 frameDelay: 120,
-frames: {
+frames:
 &6Get R3kt
-}
 ;
 name: Thanks,
 item: cake,
 desc: &7Give them a thanks,
 price: 3000,
 frameDelay: 120,
-frames: {
+frames:
 &aThanks for letting me win!
-}
 ;
 name: HaHa,
 item: skeleton head,
 desc: &7Laughing to someone,
 price: 5000,
 frameDelay: 120,
-frames: {
+frames:
 &6Haha &c[lostPlayer] &6lost!
-}
 ;
 name: Nice try,
 item: rotten flesh,
 desc: &7He did well,
 price: 5000,
 frameDelay: 120,
-frames: {
+frames:
 &cNice try &7[lostPlayer]
-}
 ;
 name: GG (animated),
 item: diamond,
 desc: &7A more fancy GG,
 price: 12500,
 frameDelay: 5,
-frames: {
+frames:
 &6&lG&food Game<nf>
 &fG&6&lo&fod Game<nf>
 &fGo&6&lo&fd Game<nf>
@@ -81,42 +74,39 @@ frames: {
 &fGood Game<nf>
 &6&lGood Game<nf>
 &fGood Game
-}
 ;
 name: &6Dab,
 item: totem_of_undying,
 desc: &7Dab at dem haters,
 price: 15000,
 frameDelay: 5,
-frames: {
+frames:
 &e|o|<nf>
 &e\o><nf>
 &e\o><nf>
 &e|o|<nf>
 &e<o/<nf>
 &e<o/
-}
 ;
 name: &6Dab (TEST),
 item: totem_of_undying,
 desc: &7Dab at dem haters,
 price: 5,
 frameDelay: 5,
-frames: {
+frames:
 &e|o|<nf>
 &e\o><nf>
 &e\o><nf>
 &e|o|<nf>
 &e<o/<nf>
 &e<o/
-}
 ;
 name: &c&oOk Boomer,
 item: observer with hidden enchantments,
 desc: &7Win and dont give,
 price: 20000,
 frameDelay: 5,
-frames: {
+frames:
 &8O--{ &4&lo&ck &6b&eo&ao&2m&3e&9r&8 }--O<nf>
 &8O--{ &4o&c&lk &6b&eo&ao&2m&3e&9r&8 }--O<nf>
 &8O--{ &4o&ck &6&lb&eo&ao&2m&3e&9r&8 }--O<nf>
@@ -125,15 +115,13 @@ frames: {
 &8O--{ &4o&ck &6b&eo&ao&2&lm&3e&9r&8 }--O<nf>
 &8O--{ &4o&ck &6b&eo&ao&2m&3&le&9r&8 }--O<nf>
 &8O--{ &4o&ck &6b&eo&ao&2m&3e&9&lr&8 }--O
-}
 ;
 name: name,
 item: item,
 desc: desc,
 price: -1,
 frameDelay: 120,
-frames: {
+frames:
 frame1<nf>
 frame2
-}
 ;
