@@ -139,6 +139,15 @@ frames:
 &aDont steal<nf>
 &cMy presents!
 ;
+name: &ePresent,
+item: chest,
+desc: Here is your present!,
+price: 7500,
+frameDelay: 120,
+frames:
+&aHere is<nf>
+&cYour present
+;
 name: name,
 item: item,
 desc: desc,
