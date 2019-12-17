@@ -10,7 +10,7 @@ name: Sporty,
 item: map,
 desc: &7A sporty tag,
 price: 1500,
-frameDelay: 230,
+frameDelay: 120,
 frames:
 &6Good Game Well Player!
 ;
