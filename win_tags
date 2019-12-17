@@ -118,13 +118,32 @@ frames:
 ;
 name: &e!Merry Christmas!,
 item: 18:1,
-desc: Wish your opponent a merry christmas!,
+desc: &7Wish your opponent a merry christmas!,
 price: 10000,
 frameDelay: 120,
 frames:
 &aMerry<nf>
 &cChristmas!
 ; 
+name: &eNo presents,
+item: 54,
+desc: &7No presents for you!,
+price: 20000,
+frameDelay: 120,
+frames:
+&aNo presents<nf>
+&cFor you!
+;
+name: SantaSaysSo,
+item: 160,
+desc: &7Santa says ur bad!,
+price: 25000,
+frameDelay: 240,
+frames:
+&cUr bad!<nf>
+&aSanta said so!
+;
+name: 
 name: name,
 item: item,
 desc: desc,
