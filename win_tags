@@ -151,7 +151,7 @@ name: &eSantaSaysSo,
 item: 160,
 desc: &7Santa says ur bad!,
 price: 5000,
-frameDelay: 240,
+frameDelay: 20,
 frames:
 &cUr bad!<nf>
 &aSanta said so!
