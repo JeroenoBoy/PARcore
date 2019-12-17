@@ -1,0 +1,12 @@
+name: None,
+item: barrier,
+price: 0,
+desc: The suffix for nothing,
+suffix: ,
+;
+name: name,
+item: item,
+price: price,
+desc: desc,
+suffix: [suffix],
+;
