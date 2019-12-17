@@ -141,7 +141,7 @@ frames:
 ;
 name: &ePresent,
 item: chest,
-desc: Here is your present!,
+desc: &7Here is your present!,
 price: 7500,
 frameDelay: 120,
 frames:
