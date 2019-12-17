@@ -117,10 +117,10 @@ frames:
 &8O--{ &4o&ck &6b&eo&ao&2m&3e&9&lr&8 }--O
 ;
 name: &e!Merry Christmas!,
-item: 18:1
-desc: Wish your opponent a merry christmas!
-price: 10000
-frameDelay: 120
+item: 18:1,
+desc: Wish your opponent a merry christmas!,
+price: 10000,
+frameDelay: 120,
 frames:
 &aMerry<nf>
 &cChristmas!
