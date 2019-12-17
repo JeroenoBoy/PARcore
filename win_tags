@@ -133,7 +133,7 @@ name: &e!Merry Christmas!,
 item: 18:1,
 desc: &7Wish your opponent a merry christmas!,
 price: 1000,
-frameDelay: 120,
+frameDelay: 20,
 frames:
 &aMerry<nf>
 &cChristmas!
@@ -142,7 +142,7 @@ name: &eNo presents,
 item: 54,
 desc: &7No presents for you!,
 price: 2500,
-frameDelay: 120,
+frameDelay: 30,
 frames:
 &aNo presents<nf>
 &cFor you!
@@ -160,7 +160,7 @@ name: &eNoStealing!,
 item: chest,
 desc: &7Dont steal my presents!,
 price: 10000,
-frameDelay: 60,
+frameDelay: 30,
 frames:
 &aDont steal<nf>
 &cMy presents!
