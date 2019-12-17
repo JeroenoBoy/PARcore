@@ -102,7 +102,7 @@ frames:
 &e<o/
 ;
 name: &6Dab (TEST2),
-item: totem_of_undying,
+item: totem of undying,
 desc: &7Dab at dem haters,
 price: -1,
 frameDelay: 5,
