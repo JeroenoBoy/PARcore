@@ -91,7 +91,20 @@ frames:
 name: &6Dab (TEST),
 item: totem_of_undying,
 desc: &7Dab at dem haters,
-price: 5,
+price: -1,
+frameDelay: 5,
+frames:
+&e|o|<nf>
+&e\o><nf>
+&e\o><nf>
+&e|o|<nf>
+&e<o/<nf>
+&e<o/
+;
+name: &6Dab (TEST2),
+item: totem_of_undying,
+desc: &7Dab at dem haters,
+price: -1,
 frameDelay: 5,
 frames:
 &e|o|<nf>
