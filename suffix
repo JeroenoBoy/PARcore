@@ -99,7 +99,7 @@ desc: &7Yes a christmastree,
 price: 2500,
 suffix: &f[&cChristmas&aTree&f]
 ;
-name: &7Rudolph,
+name: &eRudolph,
 item: 421,
 desc: &7Its Rudolph the raindeer!,
 price: 5000,
