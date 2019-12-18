@@ -115,6 +115,6 @@ suffix: &f[&aSanta&cClaus&f],
 name: name,
 item: item,
 desc: desc,
-price: price,
-suffix: [suffix],
+price: -1,
+suffix: [suffix]
 ;
