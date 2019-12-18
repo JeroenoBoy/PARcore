@@ -36,7 +36,7 @@ suffix: &f[Snowman]
 ;
 name: &eMerry Christmas,
 item: 421,
-desc: &7Merry Christmas!
+desc: &7Merry Christmas!,
 price: 1000,
 suffix: &f[&aMerry&cChristmas&f]
 ;
