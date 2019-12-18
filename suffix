@@ -117,9 +117,9 @@ desc: &7You are special,
 price: 20000,
 suffix: &f[&dSpecial&f]
 ;
-name: &eSpecial,
+name: &eSpecialPlus,
 item: 421,
-desc: &7 When you buy this. You show everyone ur addicted,
+desc: &7When you buy this. You show everyone ur addicted,
 price: 100000,
 suffix: &f[&dSpecial&6+&f]
 ;
