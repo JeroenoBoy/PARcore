@@ -157,6 +157,15 @@ frames:
 &c[wonplayer]<nf>
 &aIs legit
 ;
+name: &eNoob,
+item: saddle,
+desc: &7Tell ur opponent hes a noob,
+price: 10000,
+frameDelay: 30,
+frames:
+&c[lostPlayer]<nf>
+&eIs a noob!
+;
 name: name,
 item: item,
 desc: desc,
