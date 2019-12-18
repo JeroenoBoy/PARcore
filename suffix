@@ -8,109 +8,109 @@ name: &eSanta,
 item: 421,
 desc: &7Let em show ur love for santa!,
 price: 1000,
-suffix: &f [&5Santa&f]
+suffix: &f[&5Santa&f]
 ;
 name: &eE-boy,
 item: 421,
 desc: &7Show them ur an E-boy!,
 price: 500,
-suffix: &f [&bE-boy&f]
+suffix: &f[&bE-boy&f]
 ;
 name: &eE-girl,
 item: 421,
 desc: &7Show them ur an E-girl!,
 price: 500,
-suffix: &f [&dE-girl&f]
+suffix: &f[&dE-girl&f]
 ;
 name: &eParkourGod,
 item: 421,
 desc: &7 We know you are one!,
 price: 2500,
-suffix: &f [&6ParkourGod&f]
+suffix: &f[&6ParkourGod&f]
 ;
 name: &eSnowman,
 item: 421,
 desc: &7Show ur christmas spirit!,
 price: 1500,
-suffix: &f [Snowman]
+suffix: &f[Snowman]
 ;
 name: &eMerry Christmas,
 item: 421,
 desc: &7Merry Christmas!
 price: 1000
-suffix: &f [&aMerry&cChristmas&f]
+suffix: &f[&aMerry&cChristmas&f]
 ;
 name: &eBoomer,
 item: 421,
 desc: &7Ok boomer,
 price: 5000,
-suffix: &f [Boomer]
+suffix: &f[Boomer]
 ;
 name: &ePro,
 item: 421,
 desc: &7Tell them you are a pro!,
 price: 2500
-suffix: &f [&bPro&f]
+suffix: &f[&bPro&f]
 ;
 name: &eCool,
 item: 421,
 desc: &7Ur a cool guy,
 price: 1000,
-suffix: &f [&6Cool&f]
+suffix: &f[&6Cool&f]
 ;
 name: &eNoob,
 item: 421,
 desc: &7Tell everyone you are a noob,
 price: 1000,
-suffix: &f [&3Noob&f]
+suffix: &f[&3Noob&f]
 ;
 name: &eDab,
 item: 421,
 desc: &7Dab in chat!,
 price: 5000,
-suffix: &f [&6<o/&f]
+suffix: &f[&6<o/&f]
 ;
 name: &eImpossible,
 item: 421,
 desc: &7You are just impossible,
 price: 2500,
-suffix: &f [&5Impossible&f]
+suffix: &f[&5Impossible&f]
 ;
 name: &eSanta,
 item: 421,
 desc: &7Wait you are Santa?,
 price: 7500,
-suffix: &f [&cSanta&f]
+suffix: &f[&cSanta&f]
 ;
 name: &eFantastic,
 item: 421,
 desc: &7You are just fantastic...,
 price: 2500,
-suffix: &f [&9Fantastic&f]
+suffix: &f[&9Fantastic&f]
 ;
 name: &eJingle,
 item: 421,
 desc: &7Jingle Bells. Jingle Bells. Jingle all the way!,
 price: 5000,
-suffix: &f [&cJingle&f]
+suffix: &f[&cJingle&f]
 ;
 name: &eChristmasTree,
 item: 421,
 desc: &7Yes a christmastree,
 price: 2500,
-suffix: &f [&cChristmas&aTree&f]
+suffix: &f[&cChristmas&aTree&f]
 ;
 name: &7Rudolph,
 item: 421,
 desc: &7Its Rudolph the raindeer!,
 price: 5000,
-suffix: &f [&6Rudolph&f]
+suffix: &f[&6Rudolph&f]
 ;
 name: &eSantaClaus,
 item: 421,
 desc: &7Its Santa Claus!,
 price: 5000,
-suffix: &f [&aSanta&cClaus&f]
+suffix: &f[&aSanta&cClaus&f]
 ;
 name: name,
 item: item,
