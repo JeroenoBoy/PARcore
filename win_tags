@@ -143,7 +143,7 @@ name: &ePresent,
 item: chest,
 desc: &7Here is your present!,
 price: 7500,
-frameDelay: 120,
+frameDelay: 60,
 frames:
 &aHere is<nf>
 &cYour present
@@ -152,7 +152,7 @@ name: &eLegit,
 item: 35:5,
 desc: &7Tell them you are legit,
 price: 7500,
-frameDelay: 120,
+frameDelay: 60,
 frames:
 &c[wonplayer]<nf>
 &aIs legit
