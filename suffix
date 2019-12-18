@@ -75,12 +75,6 @@ desc: &7You are just impossible,
 price: 2500,
 suffix: &f[&5Impossible&f]
 ;
-name: &eSanta,
-item: 421,
-desc: &7Wait you are Santa?,
-price: 7500,
-suffix: &f[&cSanta&f]
-;
 name: &eFantastic,
 item: 421,
 desc: &7You are just fantastic...,
