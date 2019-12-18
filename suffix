@@ -37,7 +37,7 @@ suffix: &f[Snowman]
 name: &eMerry Christmas,
 item: 421,
 desc: &7Merry Christmas!
-price: 1000
+price: 1000,
 suffix: &f[&aMerry&cChristmas&f]
 ;
 name: &eBoomer,
@@ -49,7 +49,7 @@ suffix: &f[Boomer]
 name: &ePro,
 item: 421,
 desc: &7Tell them you are a pro!,
-price: 2500
+price: 2500,
 suffix: &f[&bPro&f]
 ;
 name: &eCool,
