@@ -121,7 +121,7 @@ name: &eSpecialPlus,
 item: 421,
 desc: &7When you buy this. You show everyone ur addicted,
 price: 100000,
-suffix: &f[&dSpecial&6+&f]
+suffix: &f[&dSpecial&6 Plus&f]
 ;
 name: name,
 item: item,
