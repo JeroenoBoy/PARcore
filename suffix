@@ -111,6 +111,12 @@ desc: &7Its Santa Claus!,
 price: 5000,
 suffix: &f[&aSanta&cClaus&f]
 ;
+name: &eIdiot,
+item: 421,
+desc: &7You are an idiot sir,
+price: 1000,
+suffix: &f[&bIdiot&f],
+;
 name: name,
 item: item,
 desc: desc,
