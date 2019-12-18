@@ -148,6 +148,15 @@ frames:
 &aHere is<nf>
 &cYour present
 ;
+name: &eLegit,
+item: 35:5,
+desc: &7Tell them you are legit,
+price: 7500,
+frameDelay: 120,
+frames:
+&c[wonplayer]<nf>
+&aIs legit
+;
 name: name,
 item: item,
 desc: desc,
