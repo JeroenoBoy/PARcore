@@ -109,7 +109,7 @@ name: &eIdiot,
 item: 421,
 desc: &7You are an idiot sir,
 price: 1000,
-suffix: &f[&bIdiot&f],
+suffix: &f[&bIdiot&f]
 ;
 name: name,
 item: item,
