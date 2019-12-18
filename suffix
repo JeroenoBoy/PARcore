@@ -1,6 +1,6 @@
 name: None,
 item: barrier,
-desc: The suffix for nothing,
+desc: &7The suffix for nothing,
 price: 0,
 suffix: &r
 ;
