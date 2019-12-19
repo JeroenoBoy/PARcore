@@ -130,7 +130,7 @@ price: 100000,
 suffix: &f[&dSpecial&6 Plus&f]
 ;
 name: &eGod,
-item: 421,
+item: netherstar,
 desc: &7if you got this tag. You are a parkour GOD,
 price: -1,
 suffix: &f[&6GOD&f]
