@@ -111,6 +111,12 @@ desc: &7You are an idiot sir,
 price: 1000,
 suffix: &f[&bIdiot&f]
 ;
+name: &eMagician,
+item: 421,
+desc: &7Abracadabra,
+price: 5000,
+suffix: &f[&5Magician&f]
+;
 name: &eSpecial,
 item: 421,
 desc: &7You are special,
