@@ -129,6 +129,12 @@ desc: &7When you buy this. You show everyone ur addicted,
 price: 100000,
 suffix: &f[&dSpecial&6 Plus&f]
 ;
+name: &eGod,
+item: 421,
+desc: &7if you got this tag. You are a parkour GOD,
+price: -1,
+suffix: &f[&6GOD&f]
+;
 name: name,
 item: item,
 desc: desc,
