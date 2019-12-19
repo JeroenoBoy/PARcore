@@ -95,7 +95,7 @@ suffix: &f[&cChristmas&aTree&f]
 ;
 name: &eRudolph,
 item: 421,
-desc: &7Its Rudolph the raindeer!,
+desc: &7Its Rudolph the reindeer!,
 price: 5000,
 suffix: &f[&6Rudolph&f]
 ;
