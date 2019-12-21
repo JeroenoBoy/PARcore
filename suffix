@@ -3,134 +3,134 @@ item: barrier,
 desc: &7The suffix for nothing,
 price: 0,
 ;
-name: &eSanta,
+name: Santa,
 item: 421,
 desc: &7Let em show ur love for santa!,
 price: 1000,
 suffix: &f[&5Santa&f]
 ;
-name: &eE-boy,
+name: E-boy,
 item: 421,
 desc: &7Show them ur an E-boy!,
 price: 500,
 suffix: &f[&bE-boy&f]
 ;
-name: &eE-girl,
+name: E-girl,
 item: 421,
 desc: &7Show them ur an E-girl!,
 price: 500,
 suffix: &f[&dE-girl&f]
 ;
-name: &eParkourGod,
+name: ParkourGod,
 item: 421,
 desc: &7 We know you are one!,
 price: 2500,
 suffix: &f[&6ParkourGod&f]
 ;
-name: &eSnowman,
+name: Snowman,
 item: 421,
 desc: &7Show ur christmas spirit!,
 price: 1500,
 suffix: &f[Snowman]
 ;
-name: &eMerry Christmas,
+name: Merry Christmas,
 item: 421,
 desc: &7Merry Christmas,
 price: 1000,
 suffix: &f[&aMerry&cChristmas&f]
 ;
-name: &eBoomer,
+name: Boomer,
 item: 421,
 desc: &7Ok boomer,
 price: 5000,
 suffix: &f[Boomer]
 ;
-name: &ePro,
+name: Pro,
 item: 421,
 desc: &7Tell them you are a pro!,
 price: 2500,
 suffix: &f[&bPro&f]
 ;
-name: &eCool,
+name: Cool,
 item: 421,
 desc: &7Ur a cool guy,
 price: 1000,
 suffix: &f[&6Cool&f]
 ;
-name: &eNoob,
+name: Noob,
 item: 421,
 desc: &7Tell everyone you are a noob,
 price: 1000,
 suffix: &f[&3Noob&f]
 ;
-name: &eDab,
+name: Dab,
 item: 421,
 desc: &7Dab in chat!,
 price: 5000,
 suffix: &f[&6<o/&f]
 ;
-name: &eImpossible,
+name: Impossible,
 item: 421,
 desc: &7You are just impossible,
 price: 2500,
 suffix: &f[&5Impossible&f]
 ;
-name: &eFantastic,
+name: Fantastic,
 item: 421,
 desc: &7You are just fantastic...,
 price: 2500,
 suffix: &f[&9Fantastic&f]
 ;
-name: &eJingle,
+name: Jingle,
 item: 421,
 desc: &7Jingle Bells. Jingle Bells. Jingle all the way!,
 price: 5000,
 suffix: &f[&cJingle&f]
 ;
-name: &eChristmasTree,
+name: ChristmasTree,
 item: 421,
 desc: &7Yes a christmastree,
 price: 2500,
 suffix: &f[&cChristmas&aTree&f]
 ;
-name: &eRudolph,
+name: Rudolph,
 item: 421,
 desc: &7Its Rudolph the reindeer!,
 price: 5000,
 suffix: &f[&6Rudolph&f]
 ;
-name: &eSantaClaus,
+name: SantaClaus,
 item: 421,
 desc: &7Its Santa Claus!,
 price: 5000,
 suffix: &f[&aSanta&cClaus&f]
 ;
-name: &eIdiot,
+name: Idiot,
 item: 421,
 desc: &7You are an idiot sir,
 price: 1000,
 suffix: &f[&bIdiot&f]
 ;
-name: &eMagician,
+name: Magician,
 item: 421,
 desc: &7Abracadabra,
 price: 5000,
 suffix: &f[&5Magician&f]
 ;
-name: &eSpecial,
+name: Special,
 item: 421,
 desc: &7You are special,
 price: 20000,
 suffix: &f[&dSpecial&f]
 ;
-name: &eSpecialPlus,
+name: SpecialPlus,
 item: 421,
 desc: &7When you buy this. You show everyone ur addicted,
 price: 100000,
 suffix: &f[&dSpecial&6 Plus&f]
 ;
-name: &eGod,
-item: netherstar,
+name: God,
+item: nether star,
 desc: &7if you got this tag. You are a parkour GOD,
 price: -1,
 suffix: &f[&6GOD&f]
