@@ -1,7 +1,12 @@
 name: None,
 item: barrier,
 desc: &7The suffix for nothing,
-price: 0,
+price: 0
+;
+name: &c&lINVALID,
+item: barrier,
+desc: &7If you have this suffix; MESSAGE a developer/co-owner/owner ASAP,
+price: -1
 ;
 name: Santa,
 item: 421,
@@ -128,6 +133,12 @@ item: 421,
 desc: &7When you buy this. You show everyone ur addicted,
 price: 100000,
 suffix: &f[&dSpecial&6 Plus&f]
+;
+name: God,
+item: nether star,
+desc: &7if you got this tag. You are a parkour GOD,
+price: -1,
+suffix: &f[&6GOD&f]
 ;
 name: God,
 item: nether star,
