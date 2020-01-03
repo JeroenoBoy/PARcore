@@ -11,7 +11,7 @@ price: -1
 name: Santa,
 item: 421,
 desc: &7Let em show ur love for santa!,
-price: 1000,
+price: -1,
 suffix: &f[&5Santa&f]
 ;
 name: E-boy,
@@ -35,13 +35,13 @@ suffix: &f[&6ParkourGod&f]
 name: Snowman,
 item: 421,
 desc: &7Show ur christmas spirit!,
-price: 1500,
+price: -1,
 suffix: &f[Snowman]
 ;
 name: Merry Christmas,
 item: 421,
 desc: &7Merry Christmas,
-price: 1000,
+price: -1,
 suffix: &f[&aMerry&cChristmas&f]
 ;
 name: Boomer,
@@ -89,25 +89,25 @@ suffix: &f[&9Fantastic&f]
 name: Jingle,
 item: 421,
 desc: &7Jingle Bells. Jingle Bells. Jingle all the way!,
-price: 5000,
+price: -1,
 suffix: &f[&cJingle&f]
 ;
 name: ChristmasTree,
 item: 421,
 desc: &7Yes a christmastree,
-price: 2500,
+price: -1,
 suffix: &f[&cChristmas&aTree&f]
 ;
 name: Rudolph,
 item: 421,
 desc: &7Its Rudolph the reindeer!,
-price: 5000,
+price: -1,
 suffix: &f[&6Rudolph&f]
 ;
 name: SantaClaus,
 item: 421,
 desc: &7Its Santa Claus!,
-price: 5000,
+price: -1,
 suffix: &f[&aSanta&cClaus&f]
 ;
 name: Idiot,
@@ -133,12 +133,6 @@ item: 421,
 desc: &7When you buy this. You show everyone ur addicted,
 price: 100000,
 suffix: &f[&dSpecial&6 Plus&f]
-;
-name: God,
-item: nether star,
-desc: &7if you got this tag. You are a parkour GOD,
-price: -1,
-suffix: &f[&6GOD&f]
 ;
 name: God,
 item: nether star,
