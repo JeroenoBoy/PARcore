@@ -106,7 +106,7 @@ frames:
 name: &eMerry Christmas!,
 item: 18:1,
 desc: &7Wish your opponent a merry christmas!,
-price: 1000,
+price: -1,
 frameDelay: 20,
 frames:
 &aMerry<nf>
@@ -115,7 +115,7 @@ frames:
 name: &eNo presents,
 item: 54,
 desc: &7No presents for you!,
-price: 2500,
+price: -1,
 frameDelay: 30,
 frames:
 &aNo presents<nf>
@@ -124,7 +124,7 @@ frames:
 name: &eSantaSaysSo,
 item: 35:14,
 desc: &7Santa says ur bad!,
-price: 5000,
+price: -1,
 frameDelay: 20,
 frames:
 &cUr bad!<nf>
@@ -133,7 +133,7 @@ frames:
 name: &eNoStealing!,
 item: chest,
 desc: &7Dont steal my presents!,
-price: 10000,
+price: -1,
 frameDelay: 30,
 frames:
 &aDont steal<nf>
@@ -142,7 +142,7 @@ frames:
 name: &ePresent,
 item: chest,
 desc: &7Here is your present!,
-price: 7500,
+price: -1,
 frameDelay: 30,
 frames:
 &aHere is<nf>
