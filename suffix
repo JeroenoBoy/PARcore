@@ -141,7 +141,7 @@ price: -1,
 suffix: &f[&6GOD&f]
 ;
 name: boosted,
-item: netherstar,
+item: nether_star,
 desc: &7if u have this. You boosted for our server!,
 price: -1,
 suffix: &f[&5Boosted&f]
