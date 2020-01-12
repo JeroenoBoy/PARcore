@@ -140,6 +140,12 @@ desc: &7if you got this tag. You are a parkour GOD,
 price: -1,
 suffix: &f[&6GOD&f]
 ;
+name: boosted,
+item: netherstar
+desc: if u have this, u boosted for our server!,
+price: -1,
+suffix: &f[&5Boosted&f]
+;
 name: name,
 item: item,
 desc: desc,
