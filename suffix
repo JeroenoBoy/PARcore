@@ -80,6 +80,12 @@ desc: &7You are just impossible,
 price: 2500,
 suffix: &f[&5Impossible&f]
 ;
+name: Leaper,
+item: 421,
+desc: &7Leap your way to victory,
+price: 5000,
+suffix: &f[&aLeaper&f]
+;
 name: Fantastic,
 item: 421,
 desc: &7You are just fantastic...,
