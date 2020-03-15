@@ -100,7 +100,7 @@ suffix: &f[&cJingle&f]
 ;
 name: NOUN,
 item: 421,
-desc: You are a noun!
+desc: You are a noun!,
 price: -1,
 suffix: &f[&b&lNOUN&f]
 ;
