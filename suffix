@@ -154,7 +154,7 @@ suffix: &f[&6GOD&f]
 ;
 name: Parkour4You,
 item: 421,
-desc: The official Parkour4You prefix!,
+desc: &7The official Parkour4You prefix!,
 price: 1000000,
 suffix: &3[&6Parkour4You&3]
 ;
